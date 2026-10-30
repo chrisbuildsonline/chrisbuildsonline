@@ -1,6 +1,3 @@
-![#](https://github.com/user-attachments/assets/11c3efa3-c709-4dd2-a387-e220463634b9)
-
-
  **<h3 align="left"> Hi 👋 I'm Chris. I'm a full-stack developer with 10+ years of experience building tools that people love.
 I move fast, stay lean, and focus on building features that actually matter.</h3>**
 
